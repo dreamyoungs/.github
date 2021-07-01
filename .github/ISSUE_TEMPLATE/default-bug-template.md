@@ -2,7 +2,7 @@
 name: Default Bug Template
 about: 기본 버그 이슈 샘플 템플릿
 title: "[ Bug ] 새로운 버그"
-labels: 버그
+labels: 버그, test
 assignees: ''
 
 ---
