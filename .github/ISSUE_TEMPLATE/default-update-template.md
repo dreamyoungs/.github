@@ -1,7 +1,7 @@
 ---
 name: Default Update Template
 about: 기본 기능 변경 이슈 샘플 템플릿
-title: "[ Update ] 수정된 기능"
+title: 수정된 기능
 labels: ''
 assignees: ''
 
