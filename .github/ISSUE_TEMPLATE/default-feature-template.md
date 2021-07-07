@@ -1,7 +1,7 @@
 ---
 name: Default Feature Template
 about: 기본 피쳐 이슈 샘플 템플릿
-title: "[ Feature ] Swagger API 이름을 넣습니다."
+title: Swagger API 이름을 넣습니다.
 labels: 기능
 assignees: ''
 
