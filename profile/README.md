@@ -34,7 +34,7 @@
 ![GCP](https://img.shields.io/badge/GCP-Platform-yellowgreen)
 
 <!-- 파트너사 목록 -->
-
+## 공식 파트너사
 - 카카오 공식 챗봇 에이전시
 - GCP 공식 파트너사
 
