@@ -10,14 +10,19 @@
 ## 사용중인 기술 스택
 ### Front End
 
+![HTML](https://img.shields.io/badge/HTML-Language-green)
+![CSS](https://img.shields.io/badge/CSS-Language-green)
+![SCSS](https://img.shields.io/badge/SCSS-Language-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-green)
-![css](https://img.shields.io/badge/css-Language-green)
-![sass](https://img.shields.io/badge/sass-Language-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-green)
 
 ![React](https://img.shields.io/badge/React-Library-yellow)
-![React](https://img.shields.io/badge/React-Library-yellow)
+![styled-components](https://img.shields.io/badge/styled--components-Library-yellow)
+![Redux](https://img.shields.io/badge/Redux-Library-yellow)
 
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-blue)
+
+![Storybook](https://img.shields.io/badge/Storybook-Tool-lightgrey)
 
 ## Back End
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-green)
