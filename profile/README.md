@@ -41,5 +41,6 @@
 <!-- 파트너사 목록 -->
 ## 공식 파트너사
 - 카카오 공식 챗봇 에이전시
-- GCP 공식 파트너사
+- 구글 클라우드 플랫폼 ( Google Cloud Platform : GCP ) 공식 파트너사
+- 구글 워크스페이스 ( Google Workspace : GWS ) 공식 리셀러
 
