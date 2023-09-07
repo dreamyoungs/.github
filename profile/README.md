@@ -38,6 +38,17 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-yellowgreen)
 ![GCP](https://img.shields.io/badge/GCP-Platform-yellowgreen)
 
+## Gen AI
+
+### LLM ( Large Language Model )
+![ChatGPT](https://img.shields.io/badge/OpenAI_ChatGPT-LLM-yellowgreen)
+![PaLM2](https://img.shields.io/badge/Google_PaLM_2-LLM-yellowgreen)
+
+### Framwork
+![LangChain](https://img.shields.io/badge/LangChain-Framework-yellowgreen)
+
+
+
 <!-- 파트너사 목록 -->
 ## 공식 파트너사
 - 카카오 공식 챗봇 에이전시
