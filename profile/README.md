@@ -32,6 +32,7 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-Framework-blue)
 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Redis](https://img.shields.io/badge/Redis-Database-blue)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Database-blue)
 
@@ -41,17 +42,12 @@
 ## Gen AI
 
 ### LLM ( Large Language Model )
-![ChatGPT](https://img.shields.io/badge/OpenAI_ChatGPT-LLM-yellowgreen)
+![Gemini](https://img.shields.io/badge/Google_Gemini-LLM-yellowgreen)
 ![PaLM2](https://img.shields.io/badge/Google_PaLM_2-LLM-yellowgreen)
-
-### Framwork
-![LangChain](https://img.shields.io/badge/LangChain-Framework-yellowgreen)
-
-
+![ChatGPT](https://img.shields.io/badge/OpenAI_ChatGPT-LLM-yellowgreen)
 
 <!-- 파트너사 목록 -->
 ## 공식 파트너사
-- 카카오 공식 챗봇 에이전시
 - 구글 클라우드 플랫폼 ( Google Cloud Platform : GCP ) 공식 파트너사
 - 구글 워크스페이스 ( Google Workspace : GWS ) 공식 리셀러
 
