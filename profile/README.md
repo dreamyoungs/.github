@@ -46,6 +46,34 @@
 ![PaLM2](https://img.shields.io/badge/Google_PaLM_2-LLM-yellowgreen)
 ![ChatGPT](https://img.shields.io/badge/OpenAI_ChatGPT-LLM-yellowgreen)
 
+## GCP ( Google Cloud Platform )
+![GKE](https://img.shields.io/badge/GKE-Kubernetes-blue)
+![Anthos](https://img.shields.io/badge/Anthos-Kubernetes-blue)
+![GKE-Autopilot](https://img.shields.io/badge/GKE_Autopilot-Kubernetes-blue)  
+
+![Cloud-Build](https://img.shields.io/badge/Cloud_Build-CI/CD-yellowgreen)
+![Artifact-Registry](https://img.shields.io/badge/Artifact_Registry-CI/CD-yellowgreen)  
+
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-Serverless-blue)
+![Cloud Function](https://img.shields.io/badge/Cloud_Function-Serverless-blue)  
+
+![Cloud-Pub/Sub](https://img.shields.io/badge/Cloud_Pub/Sub-Message_Service-yellowgreen)  
+
+![Cloud Logging](https://img.shields.io/badge/Cloud_Logging-Monitoring-blue)
+![Error_Report](https://img.shields.io/badge/Error_Report-Monitoring-blue)  
+
+![Cloud-Storage](https://img.shields.io/badge/Cloud_Storage-Blob_Data-yellowgreen)  
+
+![BigQuery](https://img.shields.io/badge/BigQuery-Database-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Redis](https://img.shields.io/badge/Redis-Database-blue)  
+
+![Cloud_Load_Balancer](https://img.shields.io/badge/Cloud_Load_Balancer-Network-yellowgreen)
+![Cloud_Armor](https://img.shields.io/badge/Cloud_Armor-Network-yellowgreen)
+![Cloud_CDN](https://img.shields.io/badge/Cloud_CDN-Network-yellowgreen)  
+![Cloud_NAT](https://img.shields.io/badge/Cloud_NAT-Network-yellowgreen)
+![Cloud_DNS](https://img.shields.io/badge/Cloud_DNS-Network-yellowgreen)  
+
 <!-- 파트너사 목록 -->
 ## 공식 파트너사
 - 구글 클라우드 플랫폼 ( Google Cloud Platform : GCP ) 공식 파트너사
