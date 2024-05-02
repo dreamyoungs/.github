@@ -3,7 +3,7 @@
 <!-- 현재 운영 서비스 목록 -->
 - 꿈많은청년들은 현재 다음과 같은 서비스를 만들고 운영하고 있습니다.
   - 챗봇 빌더 [클라우드튜링 https://cloudturing.com/](https://cloudturing.com/)
-  - 근태관리 솔루션 [오늘의업무 https://onul.works/](https://onul.works/)
+  - 생성형 AI 블로그 [두루미스 https://durumis.com/](https://durumis.com/)
   
 
 <!-- 테크 리스트 -->
@@ -45,6 +45,7 @@
 ![Gemini](https://img.shields.io/badge/Google_Gemini-LLM-yellowgreen)
 ![PaLM2](https://img.shields.io/badge/Google_PaLM_2-LLM-yellowgreen)
 ![ChatGPT](https://img.shields.io/badge/OpenAI_ChatGPT-LLM-yellowgreen)
+![Claude3](https://img.shields.io/badge/Anthropic_Claude3-LLM-yellowgreen)
 
 ## GCP ( Google Cloud Platform )
 ![GKE](https://img.shields.io/badge/GKE-Kubernetes-blue)
