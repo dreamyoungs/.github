@@ -22,8 +22,6 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-blue)
 
-![Storybook](https://img.shields.io/badge/Storybook-Tool-lightgrey)
-
 ## Back End
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-green)
@@ -43,9 +41,6 @@
 
 ### LLM ( Large Language Model )
 ![Gemini](https://img.shields.io/badge/Google_Gemini-LLM-yellowgreen)
-![PaLM2](https://img.shields.io/badge/Google_PaLM_2-LLM-yellowgreen)
-![ChatGPT](https://img.shields.io/badge/OpenAI_ChatGPT-LLM-yellowgreen)
-![Claude3](https://img.shields.io/badge/Anthropic_Claude3-LLM-yellowgreen)
 
 ## GCP ( Google Cloud Platform )
 ![GKE](https://img.shields.io/badge/GKE-Kubernetes-blue)
@@ -66,14 +61,15 @@
 ![Cloud-Storage](https://img.shields.io/badge/Cloud_Storage-Blob_Data-yellowgreen)  
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-Database-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Redis](https://img.shields.io/badge/Redis-Database-blue)  
 
 ![Cloud_Load_Balancer](https://img.shields.io/badge/Cloud_Load_Balancer-Network-yellowgreen)
 ![Cloud_Armor](https://img.shields.io/badge/Cloud_Armor-Network-yellowgreen)
 ![Cloud_CDN](https://img.shields.io/badge/Cloud_CDN-Network-yellowgreen)  
 ![Cloud_NAT](https://img.shields.io/badge/Cloud_NAT-Network-yellowgreen)
 ![Cloud_DNS](https://img.shields.io/badge/Cloud_DNS-Network-yellowgreen)  
+
+![Google Trust Services](https://img.shields.io/badge/Google_Trust_Services-SSL_Certificates-blue)  
+
 
 <!-- 파트너사 목록 -->
 ## 공식 파트너사
