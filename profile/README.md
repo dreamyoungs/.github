@@ -12,26 +12,19 @@
 
 ![HTML](https://img.shields.io/badge/HTML-Language-green)
 ![CSS](https://img.shields.io/badge/CSS-Language-green)
-![SCSS](https://img.shields.io/badge/SCSS-Language-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-green)
-
-![React](https://img.shields.io/badge/React-Library-yellow)
-![styled-components](https://img.shields.io/badge/styled--components-Library-yellow)
-![Redux](https://img.shields.io/badge/Redux-Library-yellow)
-
-![Next.js](https://img.shields.io/badge/Next.js-Framework-blue)
 
 ## Back End
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-green)
 
 ![Express](https://img.shields.io/badge/Express-Framework-blue)
-![Nest.js](https://img.shields.io/badge/Nest.js-Framework-blue)
 
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![Redis](https://img.shields.io/badge/Redis-Database-blue)
+![Valkey](https://img.shields.io/badge/Valkey-Database-blue)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Database-blue)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-yellowgreen)
@@ -41,6 +34,7 @@
 
 ### LLM ( Large Language Model )
 ![Gemini](https://img.shields.io/badge/Google_Gemini-LLM-yellowgreen)
+![Gemma](https://img.shields.io/badge/Google_Gemma-LLM-yellowgreen)
 
 ## GCP ( Google Cloud Platform )
 ![GKE](https://img.shields.io/badge/GKE-Kubernetes-blue)
