@@ -16,14 +16,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-green)
 
 ## Back End
-![JavaScript](https://img.shields.io/badge/JavaScript-Language-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-Language-green)
-
+![Node.js](https://img.shields.io/badge/Node.js-Framework-blue)
 ![Express](https://img.shields.io/badge/Express-Framework-blue)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![Redis](https://img.shields.io/badge/Redis-Database-blue)
 ![Valkey](https://img.shields.io/badge/Valkey-Database-blue)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Database-blue)
 
@@ -45,7 +41,6 @@
 ![Artifact-Registry](https://img.shields.io/badge/Artifact_Registry-CI/CD-yellowgreen)  
 
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-Serverless-blue)
-![Cloud Function](https://img.shields.io/badge/Cloud_Function-Serverless-blue)  
 
 ![Cloud-Pub/Sub](https://img.shields.io/badge/Cloud_Pub/Sub-Message_Service-yellowgreen)  
 
