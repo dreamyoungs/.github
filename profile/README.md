@@ -3,8 +3,6 @@
 <!-- 현재 운영 서비스 목록 -->
 - 꿈많은청년들은 현재 다음과 같은 서비스를 만들고 운영하고 있습니다.
   - 챗봇 빌더 [클라우드튜링 https://cloudturing.com/](https://cloudturing.com/)
-  - 생성형 AI 블로그 [두루미스 https://durumis.com/](https://durumis.com/)
-  
 
 <!-- 테크 리스트 -->
 ## 사용중인 기술 스택
@@ -13,7 +11,6 @@
 ![HTML](https://img.shields.io/badge/HTML-Language-green)
 ![CSS](https://img.shields.io/badge/CSS-Language-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-Language-green)
 
 ## Back End
 ![Node.js](https://img.shields.io/badge/Node.js-Framework-blue)
